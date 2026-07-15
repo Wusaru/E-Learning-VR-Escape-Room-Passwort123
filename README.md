@@ -1,6 +1,6 @@
 # E-Learning-VR-Escape-Room-Passwort123!
 
-(leider ist es nicht erlaubt ein ! in einem Github Repo zu verwenden)  
+(leider ist es nicht erlaubt ein ! in einem Github Repo Name zu verwenden)  
 Für Development:
  - Download Repo
  - öffne git bash/CLI im entsprechenden Ordner

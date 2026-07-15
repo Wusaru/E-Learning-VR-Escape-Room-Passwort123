@@ -4,8 +4,8 @@
 Für Development:
  - Download Repo
  - öffne git bash/CLI im entsprechenden Ordner
- -  git lfs pull
  -  git lfs install
+ -  git lfs pull
  -  in Unity: check ob alle Assets heruntergeladen wurden, sonst: reimport all -> restart unity (hilft eventuell) 
 <details>
 <summary>Lösungen für den Escape Room</summary>

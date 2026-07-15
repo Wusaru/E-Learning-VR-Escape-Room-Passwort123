@@ -28,7 +28,6 @@ public class DDoSSimulation : MonoBehaviour
     [Header("Traffic Settings")]
     public float greenSpawnDelay = 1.2f;
     public float redInitialSpawnDelay = 0.8f;
-    public float redMinSpawnDelay = 0.05f;
     public float overloadDelayThreshold = 0.18f;
     public float redQueueSpawnDelay = 0.25f;
 
@@ -127,7 +126,7 @@ public class DDoSSimulation : MonoBehaviour
                 false
             );
 
-            spawnDelay = Mathf.Max(spawnDelay - 0.03f, redMinSpawnDelay);
+            spawnDelay = Mathf.Max(spawnDelay - 0.03f, overloadDelayThreshold);
 
             if (spawnDelay <= overloadDelayThreshold)
             {

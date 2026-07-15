@@ -18397,7 +18397,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Es gab in mehreren Unternehmen Vorf\xE4lle wo Codes einfach mit Post-Its
+  m_text: "Es gab in mehreren Unternehmen Vorf\xE4lle, wo Codes einfach mit Post-Its
     neben das Eingabefeld geklebt wurden, dies ist offensichtlich nicht sicher."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -27582,11 +27582,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Wichtige Papiere wie Briefe und ausgedruckte Emails d\xFCrfen nicht einfach
-    in den Papierkorb geworfen werden, sondern sollten falls vorhanden in einem verifizierten
-    Rei\xDFwolf vernichtet werden. Oder eine Firma welche zur Vernichtung sensibler
-    Daten anstellen und in deren verschlossene Box werfen, deren Inhalt nach der
-    Abholung vernichtet wird."
+  m_text: "Wichtige Papiere wie Briefe und ausgedruckte E-Mails d\xFCrfen nicht einfach
+    in den Papierkorb geworfen werden, sondern sollten, falls vorhanden, in einem
+    verifizierten Rei\xDFwolf vernichtet werden. Oder eine Firma welche zur Vernichtung
+    sensibler Daten anstellen und in deren verschlossene Box werfen, deren Inhalt
+    nach der Abholung vernichtet wird."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -43221,8 +43221,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Dies ist ein sehr bekanntes Ph\xE4nomen, wo eine Person denkt sie verlasse
-    nur kurz den Arbeitsplatz ohne den PC zu sperren, dies ist vor allem Gef\xE4hrlich
+  m_text: "Dies ist ein sehr bekanntes Ph\xE4nomen, wo eine Person denkt, sie verlasse
+    nur kurz den Arbeitsplatz ohne den PC zu sperren, dies ist vor allem gef\xE4hrlich,
     wenn direkt wichtige Emails sichtbar sind und eventuell direkt neue Emails ohne
     Passwort-Abfrage versendet werden k\xF6nnen."
   m_isRightToLeft: 0
@@ -45561,7 +45561,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6598815579406187037, guid: 18ddb545287c546e19cc77dc9fbb2189, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

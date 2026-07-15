@@ -3,7 +3,7 @@
 (leider ist es nicht erlaubt ein ! in einem Github Repo zu verwenden)  
 Für Development:
  - Download Repo
- - öffne git bash/CLI im entsprechenden ORdner
+ - öffne git bash/CLI im entsprechenden Ordner
  -  git lfs pull
  -  git lfs install
  -  in Unity: check ob alle Assets heruntergeladen wurden, sonst: reimport all -> restart unity (hilft eventuell) 
